@@ -1,5 +1,5 @@
 # frendly-crawlers
-List of friendly AI crawlers for your robot.txt file
+List of friendly AI crawlers for your robot.txt file so you can keep the nefarious crawlers at bay.
 
 # How to use 
 
