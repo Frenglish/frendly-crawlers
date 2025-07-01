@@ -8,4 +8,4 @@ List of friendly AI crawlers for your robot.txt file so you can keep the nefario
 
 # Want to add a crawler?
 
-Open a PR or issue wih the suggestion crawler and owner information
+Open a PR or issue wih the crawler and owner information
